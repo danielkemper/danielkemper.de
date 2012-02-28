@@ -4,10 +4,10 @@
         BASIC blog excerpts feed    </title>
         <link href="/blog/excerpts.xml" rel="self" />
     
-        <link href="/"/>
+        <link href="/danielkemper.de/"/>
     
         
-    <updated>2012-02-28T15:08:48Z</updated>
+    <updated>2012-02-28T15:40:11Z</updated>
 
     <id>/blog/excerpts.xml/</id>
 
@@ -18,10 +18,10 @@
             <updated>2011-02-01T10:00:00Z</updated>
             <published>2011-02-01T10:00:00Z</published>
             <id>/blog/happy-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="happy"
                         label="Happy" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             
@@ -38,10 +38,10 @@ not so very tall but making up for it by measuring about six feet from the
             <updated>2011-01-01T10:00:00Z</updated>
             <published>2011-01-01T10:00:00Z</published>
             <id>/blog/angry-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="angry"
                         label="Angry" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             
@@ -60,10 +60,10 @@ much the same about&amp;nbsp;me.&lt;/p&gt;            </content>
             <updated>2010-12-01T10:00:00Z</updated>
             <published>2010-12-01T10:00:00Z</published>
             <id>/blog/sad-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="sad"
                         label="Sad" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             

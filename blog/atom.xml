@@ -4,10 +4,10 @@
         BASIC blog full text feed    </title>
         <link href="/blog/atom.xml" rel="self" />
     
-        <link href="/"/>
+        <link href="/danielkemper.de/"/>
     
         
-    <updated>2012-02-28T15:08:48Z</updated>
+    <updated>2012-02-28T15:40:11Z</updated>
 
     <id>/blog/atom.xml/</id>
 
@@ -18,10 +18,10 @@
             <updated>2011-02-01T10:00:00Z</updated>
             <published>2011-02-01T10:00:00Z</published>
             <id>/blog/happy-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="happy"
                         label="Happy" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             
@@ -35,10 +35,10 @@
             <updated>2011-01-01T10:00:00Z</updated>
             <published>2011-01-01T10:00:00Z</published>
             <id>/blog/angry-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="angry"
                         label="Angry" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             
@@ -52,10 +52,10 @@
             <updated>2010-12-01T10:00:00Z</updated>
             <published>2010-12-01T10:00:00Z</published>
             <id>/blog/sad-post.html</id>
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="sad"
                         label="Sad" />
-                        <category   scheme="/blog/tags"
+                        <category   scheme="/danielkemper.de/blog/tags"
                         term="thoughts"
                         label="Thoughts" />
             
